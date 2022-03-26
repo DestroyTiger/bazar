@@ -8,6 +8,13 @@ const q3 = document.querySelector('.q3');
 const answertext = document.querySelector('.answertext');
 let show=0;
 
+let browser = navigator.userAgent;
+let firefox;
+
+
+if(browser.match(/firefox|fxios/i)){
+    alert('firefox');
+}
 
 
 
