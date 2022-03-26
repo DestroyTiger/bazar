@@ -1,3 +1,4 @@
+const header = document.querySelector('header');
 const showmenu = document.querySelector('.show-menu');
 const closemenu = document.querySelector('.close-menu');
 const all_menu_left = document.querySelector('.all-menu-left');
