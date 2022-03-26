@@ -32,6 +32,9 @@ header{
 
 
 }
+.header-firefox{
+    background-color:#fff ;
+}
 .headercontant{
     display: flex;
     width: 1428px;
