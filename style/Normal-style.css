@@ -33,7 +33,7 @@ header{
 
 }
 .header-firefox{
-    background-color:#fff ;
+    background-color: rgb(255, 255, 255) !important;
 }
 .headercontant{
     display: flex;
