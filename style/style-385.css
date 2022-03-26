@@ -38,3 +38,6 @@ display: none;
 .quizcontinue button{
     padding: 2px 6px;
 }
+.all-menu-left{
+    overflow-y: scroll;
+}
