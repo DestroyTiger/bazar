@@ -13,9 +13,8 @@ let firefox;
 
 
 if(browser.match(/firefox|fxios/i)){
-    alert('firefox');
+    header.classList.add('header-firefox');
 }
-
 
 
 
