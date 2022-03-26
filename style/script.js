@@ -15,6 +15,7 @@ let firefox;
 
 if(browser.match(/firefox|fxios/i)){
     header.classList.add('header-firefox');
+    alert('0202020');
 }
 
 
