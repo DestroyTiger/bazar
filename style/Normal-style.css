@@ -34,7 +34,6 @@ header{
 }
 .header-firefox{
     background-color: rgb(255, 255, 255) !important;
-        backdrop-filter: blur(0);
 
 }
 .headercontant{
@@ -145,7 +144,7 @@ main{
     flex-direction: column;
     align-items: center;
     /* z-index: -2; */
-     overflow: hidden;
+    overflow: hidden;
 
     
 }
@@ -239,8 +238,6 @@ input[type="search"]::-webkit-search-cancel-button{ display: none; }
  .all-menu-left{
      display: none;
      z-index: 10;
-     overflow: scroll;
-
  }
  .iteam-first{
      margin-top: 20px;
