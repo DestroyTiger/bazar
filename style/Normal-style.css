@@ -34,6 +34,8 @@ header{
 }
 .header-firefox{
     background-color: rgb(255, 255, 255) !important;
+        backdrop-filter: blur(0);
+
 }
 .headercontant{
     display: flex;
