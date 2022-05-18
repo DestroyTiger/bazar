@@ -1,0 +1,51 @@
+.search-middel {
+    width: 95%;
+}
+
+.quizbox span {
+    font-size: .6rem;
+}
+
+.answertext {
+    font-size: .9rem;
+
+}
+
+.answer {
+    padding: 0 20px;
+}
+
+.quizlist {
+    padding: 0%;
+    margin: 20px 0%;
+    margin-bottom: 5px;
+}
+
+.question {
+    padding: 0%;
+    margin: 0%;
+}
+
+.quizcontinue {
+    padding: 0%;
+}
+
+.quizbox svg {
+    height: 24px;
+}
+
+.quizcontinue h1 {
+    font-size: 1rem;
+}
+
+.quizcontinue button {
+    padding: 4px 10px;
+}
+
+.quizcontinue button a {
+    font-size: .8rem;
+}
+
+.wblog {
+    margin-top: -100px;
+}
